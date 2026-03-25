@@ -1,0 +1,126 @@
+{
+  "messages": [
+    {
+      "id": "msg_1",
+      "userId": "www",
+      "username": "www",
+      "role": "owner",
+      "message": null,
+      "voiceUrl": null,
+      "imageUrl": null,
+      "videoUrl": "http://ceoell.serverku.space:3000/uploads/videos/1772505429175-430031127.mp4",
+      "timestamp": "2026-03-03T02:37:12.857Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "www",
+      "username": "www",
+      "role": "owner",
+      "message": null,
+      "voiceUrl": null,
+      "imageUrl": "http://ceoell.serverku.space:3000/uploads/images/1772506523864-87269677.png",
+      "timestamp": "2026-03-03T02:55:24.423Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "www",
+      "username": "www",
+      "role": "owner",
+      "message": "peler lu semua",
+      "voiceUrl": null,
+      "imageUrl": null,
+      "timestamp": "2026-03-03T02:55:32.212Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "bgzik",
+      "username": "bgzik",
+      "role": "owner",
+      "message": "cih",
+      "voiceUrl": null,
+      "imageUrl": null,
+      "timestamp": "2026-03-18T22:03:00.365Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "bgzik",
+      "username": "bgzik",
+      "role": "owner",
+      "message": null,
+      "voiceUrl": null,
+      "imageUrl": "http://157.230.244.73:4001/uploads/images/1773871411675-589618403.jpg",
+      "timestamp": "2026-03-18T22:03:31.738Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "dragon",
+      "username": "dragon",
+      "role": "owner",
+      "message": "oii",
+      "voiceUrl": null,
+      "imageUrl": null,
+      "timestamp": "2026-03-18T23:36:41.914Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "www",
+      "username": "www",
+      "role": "owner",
+      "message": "ppp",
+      "voiceUrl": null,
+      "imageUrl": null,
+      "timestamp": "2026-03-19T18:27:13.984Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "rapki",
+      "username": "rapki",
+      "role": "member",
+      "message": "Woi",
+      "voiceUrl": null,
+      "imageUrl": null,
+      "timestamp": "2026-03-22T09:39:13.607Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "rapki",
+      "username": "rapki",
+      "role": "member",
+      "message": "Pp",
+      "voiceUrl": null,
+      "imageUrl": null,
+      "timestamp": "2026-03-22T09:41:23.742Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    },
+    {
+      "id": "msg_1",
+      "userId": "www",
+      "username": "www",
+      "role": "owner",
+      "message": "p",
+      "voiceUrl": null,
+      "imageUrl": null,
+      "timestamp": "2026-03-22T21:51:49.052Z",
+      "avatarUrl": "assets/logo.jpg",
+      "isDeleted": false
+    }
+  ],
+  "messageIdCounter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "670a68c7-31f0-45dd-90a9-25c40a9a9aeb",
+  "username": "bgzik",
+  "target": "@piantechinfo",
+  "targetInfo": {
+    "id": "3474478102",
+    "username": "@piantechinfo",
+    "name": "undefined"
+  },
+  "count": 50,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "https://t.me/piantechinfo/8481",
+  "sessions": [
+    "+6285864521929"
+  ],
+  "progress": 50,
+  "total": 50,
+  "status": "Checking target status...",
+  "startTime": "2026-03-18T22:14:09.483Z",
+  "completed": true,
+  "endTime": "2026-03-18T22:15:00.689Z"
+}

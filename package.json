@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.0.0",
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "multer": "latest",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.6.0",
+    "ssh2": "^1.16.0",
+    "telegram": "latest",
+    "uuid": "latest",
+    "ws": "^8.18.3"
+  }
+}

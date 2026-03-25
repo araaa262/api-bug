@@ -1,0 +1,39 @@
+[
+  {
+    "username": "www",
+    "password": "x",
+    "expiredDate": "99999-09-99",
+    "role": "owner",
+    "lastSend": 1770793003942
+  },
+  {
+    "username": "bgzik",
+    "password": "bgzik656",
+    "role": "owner",
+    "expiredDate": "2028-12-11"
+  },
+  {
+    "username": "zik",
+    "password": "zik797",
+    "role": "member",
+    "expiredDate": "2026-06-25"
+  },
+  {
+    "username": "dragon",
+    "password": "dragon1",
+    "role": "owner",
+    "expiredDate": "2028-12-11"
+  },
+  {
+    "username": "yuann",
+    "password": "yuann",
+    "role": "vip",
+    "expiredDate": "2026-04-03"
+  },
+  {
+    "username": "rapki",
+    "password": "rapki",
+    "role": "member",
+    "expiredDate": "2026-04-21"
+  }
+]
