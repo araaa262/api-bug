@@ -3471,11 +3471,11 @@ bot.onText(/\/createacc/, async (msg) => {
 async function startServer() {
   try {
     app.listen(PORT, () => {
-      logSuccess(`HTTP Server aktif di http://localhost:${PORT}`);
+      logSuccess(`HTTP Server aktif di http://178.128.90.61:${PORT}`);
     });
     
     server.listen(WSPORT, () => {
-      logSuccess(`WebSocket Server aktif di ws://localhost:${WSPORT}`);
+      logSuccess(`WebSocket Server aktif di ws://178.128.90.61:${WSPORT}`);
     });
     
     await startUserSessions();
